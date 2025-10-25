@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Tarun-Lakra-s-workspace-s2liad.us-east-1.xata.sh/db/STREAMSPHERE",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
